@@ -9,7 +9,7 @@ public class mn {
 		// TODO Auto-generated method stub
 
 
-System.out.println("Hellllo world!");
+System.out.println("Hhhllllo world!");
 	}
 
 }
